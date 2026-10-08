@@ -13,7 +13,7 @@ C로 구현한 시저 암호(Caesar cipher) 프로그램입니다. 입력한 메
 ## 빌드 및 실행
 
 ```bash
-gcc -o caesar Ceasar_cipher_using_C.c
+gcc -o caesar Caesar_cipher_using_C.c
 ./caesar
 ```
 
